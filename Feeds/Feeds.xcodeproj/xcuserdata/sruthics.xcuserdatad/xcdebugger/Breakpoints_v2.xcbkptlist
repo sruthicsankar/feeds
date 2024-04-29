@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "812BF847-A123-42B0-B5E8-4FE74912497A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71B5193F-3929-4CB1-B257-DC524E6B528D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Feeds/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71B5193F-3929-4CB1-B257-DC524E6B528D - bade621a3b4c9cbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Feeds.DetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Feeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sruthics/Desktop/Feeds/Feeds/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "71B5193F-3929-4CB1-B257-DC524E6B528D - bade621a3b4c9cbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Feeds.DetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Feeds"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sruthics/Desktop/Feeds/Feeds/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
